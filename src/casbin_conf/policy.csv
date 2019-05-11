@@ -1,0 +1,2 @@
+p, admin, /*, GET
+p, notadmin, /, POST
